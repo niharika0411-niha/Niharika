@@ -6,8 +6,6 @@
   <a href="https://github.com/niharika0411-niha/Niharika/tree/master/API">View API</a>
 </h3>
 
-[ResHackDemo.webm](https://github.com/niharika0411-niha/Niharika/assets/106406724/3a815ba4-7cef-45a6-936f-9df432f42ff6)
-
 
 ## What is this and who is it for 🤷‍♀️
 
