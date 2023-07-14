@@ -2,11 +2,11 @@
 
 
 <h3 align="center">
-  <a href="https://github.com/pnavin9/ResHack/tree/master/client">View client</a> |
-  <a href="https://github.com/pnavin9/ResHack/tree/master/API">View API</a>
+  <a href="https://github.com/niharika0411-niha/Niharika/tree/master/client">View client</a> |
+  <a href="https://github.com/niharika0411-niha/Niharika/tree/master/API">View API</a>
 </h3>
 
-[ResHackDemo.webm](https://github.com/pnavin9/ResHack/assets/106406724/3a815ba4-7cef-45a6-936f-9df432f42ff6)
+[ResHackDemo.webm](https://github.com/niharika0411-niha/Niharika/assets/106406724/3a815ba4-7cef-45a6-936f-9df432f42ff6)
 
 
 ## What is this and who is it for 🤷‍♀️
@@ -84,13 +84,13 @@ There are features missing from this showcase product that should exist in a rea
 
 ## Contact
 
-If you have any questions or need assistance with Reshack, please feel free to contact Navin Patwari at patwarinavin9@gmail.com.
+If you have any questions or need assistance with Reshack, please feel free to contact Niharika at niharikareddy0411@gmail.com.
 
-This project was developed as part of the Adobe Papyrus Nebule Hackathon by Navin Patwari.
+This project was developed as part of the Adobe Papyrus Nebule Hackathon by Niharika.
 
 <hr>
 
 <h3>
-  <a href="https://github.com/pnavin9/ResHack/tree/master/client">View client</a> |
-  <a href="https://github.com/pnavin9/ResHack/tree/master/API">View API</a>
+  <a href="https://github.com/niharika0411-niha/Niharika/tree/master/client">View client</a> |
+  <a href="https://github.com/niharika0411-niha/Niharika/tree/master/API">View API</a>
 </h3>
